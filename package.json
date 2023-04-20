@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "fetchtasks-bug.findTasks",
-        "title": "FetchTasksBug: it Find tasks"
+        "title": "FetchTasksBug: Find tasks"
       }
     ]
   },
